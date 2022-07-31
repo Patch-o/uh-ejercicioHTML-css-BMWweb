@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+
+header {
+  top: 0;
+}
+body {
+    margin: 0;
+    font-family: 'Russo One', sans-serif;
+    height: 1550px; 
+margin-bottom: 250px;
+}
+header {
+    width: 100%;
+    height: 100%;
+}
+.mainbody {
+    position: relative;
+    margin-top: 500px;
+    margin-bottom: 200px;
+    border-bottom: solid black 1px;
+}
+.bmw {
+    background-image: url(https://silodrome.com/wp-content/uploads/2019/10/Custom-BMW-E9-Overhead-1600x1066.jpg);
+    opacity: 75%; 
+    background-size: cover;
+    background-position: left;
+   background-position: center;
+    background-attachment: fixed;
+}
+.navheader {
+    display: flex;
+    padding-top: 5%;
+    justify-content:space-between;
+    border-bottom:  solid white 2px;
+    margin-left: 5%;
+    position: relative;
+    width: 80%;
+}
+.subhead {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 70%;
+    padding-left: 128px;
+ }
+ .whitetext {
+    text-decoration-color: whitesmoke;
+    text-decoration: NONE;
+    color: white;
+    text-underline-position: none;
+ }
+ .whitetexth {
+    text-decoration-color: whitesmoke;
+    text-decoration: NONE;
+    color: white;
+    text-underline-position: none;
+ }
+ .a {
+    padding-left: 30px;
+    font-size: 170%;
+ }
+ .btn {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: blue;
+    border: solid 1px blue;
+    color;
+    width: 200px;
+    height: 50px;
+ }
+ .cabrio {
+    font-size: 150%;
+    margin-top: -10px;
+    border-bottom: 3px red solid;
+ }
+ .click {
+    text-decoration-line: none;
+ }
+ .parallax {
+
+ }
+ .navfoot {
+    background-color:  white;
+    opacity: 75%;
+
+ }
+ .navitem {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+ }
+ .navimglupa {
+    width: 40px;
+    background-color: transparent;
+ }
+ .navimgbmw {
+    display: flex;
+    justify-content: center;
+   width: 100px;
+   height: 100px;
+   border: solid 2px white;
+   margin-left: 30px;
+   margin-top: 50px;
+   background-color: white;
+   opacity: 80%;
+   
+}
+ .navhead {
+    display: flex;      
+}  
+    .logobmw {
+        
+        width: 85px;
+        height: 85px;
+        margin-right: 0px;
+        margin-top: 6px;
+        opacity: 100%;
+    }
+    .model {
+        display: flex;
+        text-align: start;
+        justify-content: space-evenly;
+        opacity: 100%;
+        color: black ;
+    }
+    .carimg {
+        width: 200px;
+        height: 150px;
+        
+        
+    } 
+.carslist {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+    .cars { 
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+    }
+
+.bodynew {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    
+
+}
+main {
+    position: absolute;
+    width: 100%;
+    
+}
+.bodynews {
+   
+    
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    padding: 10px;
+}
+.newimg {
+    width: 100%;
+    height: 180px;
+}
+.publi { 
+width: 200px;
+  
+}
+.fuera {
+    margin-left: 12%;
+}
+.prom {
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    justify-content: space-evenly;
+}
+.promm {
+  
+}
+.contacto {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.contactoimg {
+    background-color: rgb(160, 160, 160);
+    display: flex;
+    border: solid grey 2px;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 9%;
+    }
+.icon {
+    padding-left: 25%;
+    padding: 50px 50px;
+}  
+.final {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    background-color: rgb(160, 160, 160);
+    border-top: solid black 1px;
+    padding-top: 200px;
+}
+.finall {
+
+    border-top: solid black 1px;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: solid black 1px;
+}
